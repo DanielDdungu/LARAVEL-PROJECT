@@ -1,0 +1,15 @@
+phrase:
+  access_token: 2b6d344f2717849b677fed65605bb4e2c6f8af6ea4c667e3e33b823d024c554d
+  project_id: eeced97dcba16affa8749ac00116ace9
+  push:
+    sources:
+    - file: ./resources/lang/en/messages.php
+      params:
+        file_format: laravel
+        locale_id: en
+  pull:
+    targets:
+    - file: ./resources/lang/fr/messages.php
+      params:
+        file_format: laravel
+        locale_id: fr
