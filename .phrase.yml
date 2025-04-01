@@ -1,6 +1,6 @@
 phrase:
-  access_token: 2b6d344f2717849b677fed65605bb4e2c6f8af6ea4c667e3e33b823d024c554d
-  project_id: eeced97dcba16affa8749ac00116ace9
+  access_token: ef603dab77025557420e3cfcaeb840097ec21d9dfe007686faf9ffb69f5d3325
+  project_id: a7523de3fdf7ceeabe1e69a7177e33e9
   push:
     sources:
     - file: ./resources/lang/en/messages.php
