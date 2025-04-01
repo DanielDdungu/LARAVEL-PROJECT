@@ -14,8 +14,8 @@ phrase:
     targets:
     - file: ./resources/lang/fr/messages.php
       params:
-      locale_id: fr
-      file_format: laravel
-      tags: "Main_files"
-      update_translations: true
+        locale_id: fr
+        file_format: laravel
+        tags: "Main_files"
+        update_translations: true
         
