@@ -7,9 +7,13 @@ phrase:
       params:
         file_format: laravel
         locale_id: en
+        tags: "Main_files"
+        update_translations: true
   pull:
     targets:
     - file: ./resources/lang/fr/messages.php
       params:
         file_format: laravel
         locale_id: fr
+        tags: "Main_files"
+        update_translations: true
